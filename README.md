@@ -1,23 +1,27 @@
-# Dot-and-Key-Skincare
-Clone Repository of  DotandKey.Com
-<p>Clone Repository of  DotandKey.Com    This is my colaboirative project. We are 6 people dedicatedly work and colaborated on it and completed it in 6 days</p>
-<h3>Netlify link</h3>
-<p>https://dot-and-key.netlify.app/</p>
+# Dot & Key Skincare Clone (E-Commerce Web Application)
 
+This project is a clone of the Dot & Key skincare website, built using HTML, CSS, and JavaScript. It focuses on creating a clean, responsive, and user-friendly interface with category-based product browsing.
 
+## 🚀 Features
+- Category-based product sections (Skincare, Haircare, etc.)
+- Dynamic product rendering using JavaScript
+- Detailed product pages
+- Responsive design for all devices
+- Smooth navigation and improved UI experience
 
-![86e84a95-b156-4bd8-bd90-fe163fb4370d](https://user-images.githubusercontent.com/99714520/173919371-030aef2e-1002-4eb1-b914-155ccfa87aa4.jpg)
-<h2>Authors</h2>
-<p>Krishna</p>
-<p>Akhil TJ</p>
-<p>Rahul</p>
-<p>Shivam</p>
-<p>Govind</p>
+## 👩‍💻 My Contribution
+- Designed and developed the Haircare section
+- Implemented category-based navigation system
+- Built dynamic product display using JavaScript
+- Improved UI responsiveness and fixed bugs
 
-<h3>TeachStack used</h3>
-<ul>
-  <li>HTML</li>
-   <li>JAVASCRIPT</li>
-   <li>CSS</li>
-</ul>
-<p>A collaborative project made in 6 days.</p>
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 🤝 Team Project
+This was a collaborative project where I worked on specific modules as mentioned above.
+
+## 🌐 Live Demo
+https://github.com/poorviparashar122
